@@ -1,3 +1,4 @@
+#Este codigo usa la libreria Winpowerlib con datos meteorologicos reales de la Guajira
 from windpowerlib import wind_farm, WindTurbine, ModelChain
 
 import pandas as pd
