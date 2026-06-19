@@ -1,3 +1,4 @@
+#En este codigo es posible obtener la curva de potencia de cualquiera de los 66 modelos de turbinas que vienen por defecto con la libreria
 import matplotlib.pyplot as plt
 from windpowerlib import WindTurbine
 
