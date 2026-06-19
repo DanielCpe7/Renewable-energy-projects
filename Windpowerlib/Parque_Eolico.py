@@ -1,3 +1,4 @@
+#Este codigo calcula energia, potencia promedio y factor de planta generado por un parque eolico de 10 turbinas
 from windpowerlib import WindTurbine, ModelChain
 import pandas as pd
 import matplotlib.pyplot as plt
