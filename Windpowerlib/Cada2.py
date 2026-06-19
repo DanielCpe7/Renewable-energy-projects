@@ -1,4 +1,5 @@
-#Este codigo usa la libreria Winpowerlib con datos meteorologicos reales de la Guajira
+#Este codigo usa la libreria Winpowerlib con datos meteorologicos reales de la Guajira obtenidos del IDEAM(Instituto de Hidrología, Meteorología y Estudios Ambientales) 
+#Estos datos datos fueron medidos a 10m de altura cada 2min de ahí el nombre del archivo.
 from windpowerlib import wind_farm, WindTurbine, ModelChain
 
 import pandas as pd
